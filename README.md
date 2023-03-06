@@ -11,7 +11,7 @@ data stored in an Excel spreadsheet
 ## After a few iterations of designing an ERD and changing the connections between tables we ended up with this design:
 ![image](https://user-images.githubusercontent.com/72473445/223002395-aa4f9fc1-dac3-4ad7-8dbe-ec0daf400f2e.png)
 
-## Once we implemented the Create Table code it turned into this in Microsoft SQL Server:
+## Once we implemented the Create Table code it turned into this visual in Microsoft SQL Server:
 ![image](https://user-images.githubusercontent.com/72473445/223002078-b052a8e6-3534-47df-b650-ac9b275d4fb2.png)
 
 ## Using the Dummy Data we implemented we came up with a few visualizations using Tableau:
