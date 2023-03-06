@@ -8,3 +8,4 @@ procedures to ensure efficiency and prevent cascading rollbacks
 Utilized Tableau to develop data visualizations showcasing data inserted through synthetic transactions and self-cleaned
 data stored in an Excel spreadsheet
 
+![image](https://user-images.githubusercontent.com/72473445/223002078-b052a8e6-3534-47df-b650-ac9b275d4fb2.png)
